@@ -35,54 +35,61 @@ td {
     background-color: rgb(0, 100, 100);
 }
 
-.CAPÇALERA {
+.HORES {
     font-size: 20px;
+    padding: 10px;
+    width: 180px;
+}
+
+.CAPÇALERA {
+    font-size: 25px;
+    padding: 30px;
     color:rgba(255, 255, 255);
     background-color: rgb(0, 165, 165);
     font-weight: bold; text-align: center;
 }
 
+.DESCANS {
+    font-size: 20px;
+    padding: 15px;
+}
+
 .LMGSI {
-    color: rgba(0, 150, 0);
-    background-color: rgba(0, 150, 0, 0.25);
+    color: white;
+    background-color:rgb(255, 150, 175);
 }
 
 .PROGRAMACIO {
-    color: rgba(125, 0, 0);
-    background-color: rgba(125, 0, 0, 0.25); 
+    color: white;
+    background-color:rgb(0, 150, 150); 
 }
 
 .DIW{
-    color: rgba(150, 150, 0);
-    background-color: rgba(150, 150, 0, 0.25); 
+    color: white;
+    background-color: rgb(255, 100, 50); 
 }
 
 .BD{
-    color: rgba(150, 90, 0);
-    background-color: rgba(150, 90, 0, 0.25);
+    color: black;
+    background-color: rgb(255, 220, 175);
 }
 
 .TUT{
-    color: rgba(50, 0, 100);
-    background-color: rgba(50, 0, 100, 0.25);
+    color:white;
+    background-color: rgb(0, 60, 255);
 }
 
 .IPOI{
-    color: rgba(100, 0, 90);
-    background-color: rgba(100, 0, 90, 0.25);
-}
-
-.TUT{
-    color: rgba(100, 25, 0);
-    background-color: rgba(150, 25, 0, 0.25);
+    color: white;
+    background-color: rgb(180, 0, 0);
 }
 
 .AN{
-    color: rgba(0, 100, 100);
-    background-color: rgba(0, 100, 100, 0.25);
+    color: white;
+    background-color: rgb(200, 150, 0);
 }
 
 .SI{
-    color: rgba(100, 0, 30);
-    background-color: rgba(100, 0, 30, 0.25);
+    color: black;
+    background-color: rgb(255, 255, 0);
 }
